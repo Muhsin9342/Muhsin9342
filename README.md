@@ -21,7 +21,7 @@
 - 🔭 I’m currently learning : Advanced Java.
 - 🌱 I’m currently pursuing : Post Graduation Certification in Full Stack Development from UpGrad. (using Java)
 - 📫 How to reach me: muhsin9342@gmail.com , Mobile : +91-8660062050
-- ⚡ Fun fact: I spend almost 8 hours listening songs everyday while learning.
+- ⚡ Fun fact: I spend almost 5 hours listening songs everyday while learning.
 
 
 
